@@ -1,7 +1,7 @@
 ![logo](./app/src/main/resources/org/cirdles/calamari/squidoo-icon.png)Calamari
 ========
 
-[![Build Status](https://travis-ci.org/bowring/Calamari.svg?branch=master)](https://travis-ci.org/bowring/Calamari)
+[![Build Status](https://travis-ci.org/cirdles/Calamari.svg?branch=master)](https://travis-ci.org/cirdles/Calamari)
 
 **Calamari** is a joint cyber infrastructure product of [CIRDLES](http://cirdles.org),
 the Cyber Infrastructure Research and Development Lab for the Earth Sciences,
@@ -20,7 +20,7 @@ existing [schema](https://github.com/CIRDLES/ShrimpXSD/blob/master/SHRIMP_PRAWN.
 
 1. 64-bit Operating System - Linux, Mac, Windows  
 2. [Java 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) or later
-3. Latest [**Calamari** release](https://github.com/bowring/Calamari/releases) - you want the ".jar" file  
+3. Latest [**Calamari** release](https://github.com/cirdles/Calamari/releases) - you want the ".jar" file  
 
 **Instructions to run Java ".jar" file:**  
 

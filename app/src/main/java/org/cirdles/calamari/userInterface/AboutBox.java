@@ -145,7 +145,7 @@ public class AboutBox extends javax.swing.JDialog {
     }// </editor-fold>//GEN-END:initComponents
 
     private void visitGitHubButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_visitGitHubButtonActionPerformed
-        BrowserControl.showURI("https://github.com/bowring/Calamari");
+        BrowserControl.showURI("https://github.com/cirdles/Calamari");
     }//GEN-LAST:event_visitGitHubButtonActionPerformed
 
     /**

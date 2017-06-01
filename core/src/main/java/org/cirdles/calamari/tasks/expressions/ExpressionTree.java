@@ -200,7 +200,7 @@ public class ExpressionTree
                 + " xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"\n"
                 + " xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n"
                 + " xsi:schemaLocation=\"https://raw.githubusercontent.com\n"
-                + "                 https://raw.githubusercontent.com/bowring/Calamari/expressions/src/main/resources/SquidExpressionModelXMLSchema.xsd\">";
+                + "                 https://raw.githubusercontent.com/cirdles/Calamari/expressions/src/main/resources/SquidExpressionModelXMLSchema.xsd\">";
 
         xmlR = xmlR.replaceFirst("<ExpressionTree>",
                 header);

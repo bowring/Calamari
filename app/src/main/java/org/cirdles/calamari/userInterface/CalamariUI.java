@@ -576,7 +576,7 @@ public class CalamariUI extends javax.swing.JFrame {
     }//GEN-LAST:event_useSpotAverageActionPerformed
 
     private void readMeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_readMeButtonActionPerformed
-        BrowserControl.showURI("https://github.com/bowring/Calamari/blob/master/README.md");
+        BrowserControl.showURI("https://github.com/cirdles/Calamari/blob/master/README.md");
     }//GEN-LAST:event_readMeButtonActionPerformed
 
     private void exitTwoMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitTwoMenuItemActionPerformed
